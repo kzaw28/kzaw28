@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://github.com/user-attachments/assets/3562b7d1-52c1-441c-993f-d0687a78ec19">
+
+
+
 <!--
 **kzaw28/kzaw28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
